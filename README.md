@@ -1,1 +1,2 @@
-# Akash-Singh
+# Python_Basic
+This repository encompasses all the assignments I successfully completed during my foundational learning phase. These assignments encompass both theoretical and programming components, reflecting a comprehensive understanding of the subject matter. They serve as a testament to my diligence and commitment towards acquiring a solid grasp of the basics. This collection stands as a testament to my proficiency in the fundamental concepts, both in theory and practical application, demonstrating a strong foundation in the subject matter.
